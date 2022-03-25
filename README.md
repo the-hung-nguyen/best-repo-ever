@@ -9,3 +9,4 @@ Make 1st change in GitHub - main branch
 Second change in new-branch-4 (change made in GitHub in branch new-branch-4)
 Third change in new-branch-4 (change made in VSC)
 Fourth change in new-branch-4 (change made in VSC)
+Fifth change in new-branch-4 (change made in GitHub in branch new-branch-4)
